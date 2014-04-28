@@ -11,3 +11,5 @@
 * Which parts of the challenge did you find tedious?
 
 <!-- Add your reflection here. Remove the comment markers -->
+
+This design experience reminded me of a class I took last semester in college. The class was called Typography Design. We used alot of the same techniques to deside how the user was going to interact with the content. I really enjoyed working with the grid and making layouts. I still would like to learn more about how I can use Adobe Illustrator more effectively in my design process. I think its tedious, but I also think it is a very necessary task. I understand why programmers work with design teams because doing all this work yourself would be nightmare. I learned that I could use Illustrator to make my mockup layouts. I learned that there are lots of resources on the internet I can use to make my templates fast and efficiently.  
