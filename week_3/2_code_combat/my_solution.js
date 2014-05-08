@@ -181,3 +181,11 @@
 // Reflection:
 // Write your reflection here.
 
+For this challenge I worked with fahia mohamed;  I found this challenge very tedious only because I have learned about object oriented programming before. 
+Writing down the same functions over and over to complete the game was alittle too much but to a new programmer I can understand how it is necessary to learn from this site. 
+The main issues i had was understanding what exactly I was supposed to do in order to complete these missions. I did like the last mission though, which was to use the canon 
+and plot XY coordinates to defeat the enemey. For this challenge I did not learn any new tricks but for the next challenge I am sure i will. 
+
+the '()' represents a method or function call the can be used by the object
+the 'this.' represents the object being used at the time
+the ';' semicolon is used as a delimiter during compile time to make the end of a statments or declaration 
