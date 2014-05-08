@@ -26,5 +26,8 @@ U1.W3: JavaScript Variables and Object Types:
 
 For this challenge I worked by myself. Once I fully understood how this challenge worked I enjoyed it. I had a tough time installing node on my mac. Somewhere along the line I missed the directions on how to install it. I ended up googling tutorials on how to install node via terminal commands. This challege provided a good exercise on making various variable objects and arrays. It was nice to add object to that array in specified locations within the array. Im curious to learn the how this tutorial was made. I did not find this challenge tedious. This was much better than the second challenge. I did not learn too much on this challege but got more practice declaring various objects.  I am confident with the learning competencies of this challenge.
 
+Solo Challenge reflection:
+This challenge taught me the most thus far.  I had to do some extra research on objects vs object literals. I also had to do some research on the delete feature to delete a property, which is now nice to know going forward.  I still think I am unsure about object literals but I will practice more on it. I believe I understand most of it, but it will be more clearer the use of it as we move forward or in my own practice time.  I am fairly confident in my Learning Competencies of this challenge.  I enjoyed the test drive portion of this challenge. I thought repeating the add children.’name’ part was a little tedious maybe we could have done something else instead print out adam also. 
+
 
 
